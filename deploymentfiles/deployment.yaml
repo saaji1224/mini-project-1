@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: sajithsaaji/batch730app:7
+          image: sajithsaaji/batch730app:8
           ports:
             - containerPort: 8080
       
